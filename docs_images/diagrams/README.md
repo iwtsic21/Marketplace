@@ -1,12 +1,34 @@
-Activity diagram
+# Activity diagram
+
+
 ![Главная страница Onliner](activity.png)
-Class diagram
+
+
+# Class diagram
+
+
 ![Главная страница Onliner](classdiagram.png)
-Components diagram
+
+
+# Components diagram
+
+
 ![Главная страница Onliner](components.png)
-Sequence diagram
+
+
+# Sequence diagram
+
+
 ![Главная страница Onliner](Sequence.png)
-State diagram 
+
+
+# State diagram 
+
+
 ![Главная страница Onliner](state.png)
-Use diagram
+
+
+# Use diagram
+
+
 ![Главная страница Onliner](Use.png)
